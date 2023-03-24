@@ -1,0 +1,79 @@
+/* Планшетов X */
+@media (max-width: 1200px) {
+    .main-right{
+        display: none;
+      }
+}
+
+@media (max-width: 992px) {
+   .post__fon{
+    width: 670px;
+    margin-left: 20px;
+   }
+   .icon{
+    margin-left: 160px;
+   }
+   .hr{
+    width: 600px;
+   }
+   .text-2{
+    margin-left: 270px;
+   }
+   .block-text-img{
+    width: 669px;
+    margin-left: 20px;
+   }
+   .text-6{
+    font-size: 12px;
+   }
+   .block-text-img-1{
+    width: 669px;
+    height: 460px;
+    margin-left: 20px;
+   }
+   .img-3{
+    width: 650px;
+   }
+}
+
+/* Телефоны Х */
+@media (max-width: 700px) {
+    .post__fon{
+        width: 470px;
+        margin-left: 20px;
+       }
+       
+       .icon{
+        margin-left: 40px;
+       }
+       .hr{
+        width: 430px;
+       }
+       .input{
+        width: 190px;
+        font-size: 15px;
+       }
+       .text-2{
+        margin-left: 190px;
+       }
+       .block-text-img{
+        width: 469px;
+        margin-left: 20px;
+       }
+       .text-6{
+        font-size: 9px;
+       }
+       .block-text-img-1{
+        width: 469px;
+        height: 390px;
+        margin-left: 20px;
+       }
+       .img-3{
+        width: 460px;
+       }
+}
+
+/* Телефоны Y */
+@media (max-width: 576px) {
+   
+}

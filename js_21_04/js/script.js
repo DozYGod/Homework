@@ -142,4 +142,10 @@ for (let i = 5; i >= 1; i--) {
     }
     document.write(row + `<br>`);
   }
+//таблица умножения 
+for (let i = 1; i <= 10; i++ ){
+    for(let k = 1; k <=10; k++ ){
+        document.write(`${i} * ${k} = ${k * i} <br>`)
+    }
+}
   
